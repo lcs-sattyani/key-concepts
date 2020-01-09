@@ -55,6 +55,7 @@ canvas.borderColor = Color(hue: 205, saturation: 74, brightness: 77, alpha: 75)
 canvas.defaultBorderWidth = 100
 canvas.drawEllipse(at: Point(x: 350, y: 200), width: 275, height: 275)
 
+
 /*:
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.
