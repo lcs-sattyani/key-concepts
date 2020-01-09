@@ -55,6 +55,16 @@ canvas.borderColor = Color(hue: 205, saturation: 74, brightness: 77, alpha: 75)
 canvas.defaultBorderWidth = 100
 canvas.drawEllipse(at: Point(x: 350, y: 200), width: 275, height: 275)
 
+canvas.drawText(message: "the jesus", at: Point(x: 10, y: 450), size: 45, kerning: 0.0)
+
+canvas.drawText(message: "and mary chain", at: Point(x: 10, y: 400), size: 45, kerning: 0.0)
+
+canvas.drawText(message: "friday                               with                                      hollywood palladium", at: Point(x: 20, y: 570), size: 10, kerning: 0.0)
+
+canvas.drawText(message: "december 4 1987           social disortion                    6315 sunset blvd", at: Point(x: 20, y: 555), size: 10, kerning: 0.0)
+
+canvas.drawText(message: "8pm show                       and opal                               los angeles, california", at: Point(x: 20, y: 540), size: 10, kerning: 0.0)
+
 
 /*:
  ## Template code
